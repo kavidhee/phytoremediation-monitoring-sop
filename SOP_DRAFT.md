@@ -10,7 +10,7 @@
 
 ## 5.0 Monitoring Parameters
 
-### 5.1 Water Quality (e.g., Nitrogen, Phosphorus, TSS)
+### 5.1 Water Quality (e.g., Nitrogen, Phosphorus, TSS, Copper)
 
 ### 5.2 Soil/Sediment Analysis
 
